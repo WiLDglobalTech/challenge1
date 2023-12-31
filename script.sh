@@ -1,5 +1,6 @@
 #!/bin/bash
-# A simple variable example
+M-U
+# QUAME
 greeting=Hello
 name=Tux
 echo $greeting $name
