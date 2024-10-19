@@ -1,0 +1,82 @@
+# Cloud Engineering Course (Sept 2024 - Mar 2025)
+
+## 1. Cloud Computing Knowledge in AWS
+- **Security in the Cloud**
+  - IAM
+  - CloudTrail
+- **Cost Optimization**
+  - Budget Creation
+  - Cost Explorer
+- **Compute Service**
+  - EC2 (Instances, Features, Demo)
+  - Lambda Functions
+- **Storage Service**
+  - Simple Storage Service (S3)
+    - Storage Classes
+    - Components
+  - Elastic Block Storage
+  - Elastic File System
+- **Cloud Networking**
+  - Virtual Private Network (VPC)
+    - Subnets and Routing tables
+    - Internet and NAT Gateway
+    - Load balancing and Auto scaling
+    - VPC flowlogs
+  - CloudTrail
+  - Route53
+  - AWS Certificate Manager
+  - Global Accelerator
+- **Database**
+  - AWS Relational Database
+  - DynamoDB
+- **Monitoring and Logging**
+  - AWS CloudWatch
+  - CloudTrail
+
+## 2. Basics of Linux Operating System
+- File System
+- File permissions
+- Basic Linux Commands
+- Virtual Box
+- Package and Software management
+
+## 3. Version Control Systems
+- Git
+- GitHub
+  - Branching and Merging Strategies
+  - Peer reviews
+  - Admin Setups
+
+## 4. Infrastructure as Code [Terraform]
+- Introduction to IaC
+- Components of Terraform
+- Terraform Basics
+- Terraform implementation
+- Terraform Blocks
+  - Resource blocks
+  - Provider Blocks
+  - Variable blocks
+- Terraform backend configuration
+- Terraform Modules
+- Terraform import
+
+## 5. Containerization & Orchestration
+- **Containerization**
+  - Microservices
+  - Docker Images
+  - Docker Containers
+  - Docker registry
+  - Dockerfile
+  - Container Volume mount
+  - Docker Compose
+- **Kubernetes**
+  - Components of K8s
+  - Kubernetes Deployments
+  - ReplicaSets
+  - Namespaces
+
+## 6. CI/CD
+- Jenkins installation (local machine and EC2)
+- Pipeline as a Code with Jenkinsfile
+
+## 7. Resume and Interview Preparation
